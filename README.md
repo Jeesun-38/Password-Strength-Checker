@@ -13,9 +13,4 @@ The **Password Strength Checker** is a Python application designed to help users
 - Python 3.x
 - `requests` library
 
-## Installation
-1. **Clone the repository** (or download the script):
-   ```bash
-   git clone <repository-url>
-   cd password-strength-checker
 
